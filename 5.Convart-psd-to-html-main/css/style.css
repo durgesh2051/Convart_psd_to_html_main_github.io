@@ -1,0 +1,57 @@
+.nav-link {
+  color: white !important;
+  font-size: 20px;
+  margin-left: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+.nav-link:hover {
+  color: orange !important;
+}
+.setup {
+  background-color: orangered;
+  padding: 5px 20px;
+  color: white;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+  transition: 0.5s;
+}
+.setup:hover {
+  background-color: rgb(223, 222, 222);
+  color: orangered;
+  transition: 0.5s;
+}
+.ones {
+  height: 280px !important;
+}
+.heart {
+  font-size: 80px;
+  color: aliceblue;
+}
+.heart:hover {
+  font-size: 80px;
+  color: pink;
+}
+
+.card {
+  transition: 0.5s;
+}
+.card:hover {
+  box-shadow: 5px 5px 5px black;
+  transition: 0.5s;
+}
+.section5 {
+  background-image: url(../images/5.png);
+  height: 60vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.modifiy {
+  background-color: orangered;
+  padding: 5px 20px;
+  color: white;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+  transition: 0.5s;
+}
